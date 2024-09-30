@@ -3,7 +3,7 @@
 ## Introduction
 * Gelaito4 is an application prototype designed to enhance the viewing experience of sports events by providing real-time player information, automatic video categorization, and personalized video recommendations.
   
-## DEMO VIDEO
+## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EiodaJCLovs/0.jpg)](https://www.youtube.com/watch?v=EiodaJCLovs)
 
 ## Motivation
