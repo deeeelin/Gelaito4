@@ -2,6 +2,9 @@
 
 ## Introduction
 * Gelaito4 is an application prototype designed to enhance the viewing experience of sports events by providing real-time player information, automatic video categorization, and personalized video recommendations.
+  
+##DEMO VIDEO
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EiodaJCLovs/0.jpg)](https://www.youtube.com/watch?v=EiodaJCLovs)
 
 ## Motivation
 * When watching sports event videos, viewers often want to quickly know the names or related data of players but can only rely on vague jersey numbers or player characteristics to search online. This not only requires pausing the video, missing exciting moments, but also takes a lot of time to find information.
